@@ -1,4 +1,4 @@
-# TicTacToe
+# tic-tac-toe
 Python TicTacToe with Pygame
 
 ## Demo
